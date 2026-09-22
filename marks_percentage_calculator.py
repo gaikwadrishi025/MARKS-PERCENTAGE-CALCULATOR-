@@ -11,7 +11,7 @@ sub5 = float(input())
 total = sub1 + sub2 + sub3 + sub4 + sub5
 percentage = total / 5
 
-print("\n---Student Marks---")
+print("\n---College score card---")
 print("Name:",name)
 print("Total marks:",total)
 print("Percentage:",percentage, "%")
